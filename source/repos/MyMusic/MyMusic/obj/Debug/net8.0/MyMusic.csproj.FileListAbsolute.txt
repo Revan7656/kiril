@@ -1,0 +1,14 @@
+C:\Users\kiril\source\repos\MyMusic\MyMusic\obj\Debug\net8.0\MyMusic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kiril\source\repos\MyMusic\MyMusic\obj\Debug\net8.0\MyMusic.AssemblyInfoInputs.cache
+C:\Users\kiril\source\repos\MyMusic\MyMusic\obj\Debug\net8.0\MyMusic.AssemblyInfo.cs
+C:\Users\kiril\source\repos\MyMusic\MyMusic\obj\Debug\net8.0\MyMusic.csproj.CoreCompileInputs.cache
+C:\Users\kiril\source\repos\MyMusic\MyMusic\bin\Debug\net8.0\MyMusic.exe
+C:\Users\kiril\source\repos\MyMusic\MyMusic\bin\Debug\net8.0\MyMusic.deps.json
+C:\Users\kiril\source\repos\MyMusic\MyMusic\bin\Debug\net8.0\MyMusic.runtimeconfig.json
+C:\Users\kiril\source\repos\MyMusic\MyMusic\bin\Debug\net8.0\MyMusic.dll
+C:\Users\kiril\source\repos\MyMusic\MyMusic\bin\Debug\net8.0\MyMusic.pdb
+C:\Users\kiril\source\repos\MyMusic\MyMusic\obj\Debug\net8.0\MyMusic.dll
+C:\Users\kiril\source\repos\MyMusic\MyMusic\obj\Debug\net8.0\refint\MyMusic.dll
+C:\Users\kiril\source\repos\MyMusic\MyMusic\obj\Debug\net8.0\MyMusic.pdb
+C:\Users\kiril\source\repos\MyMusic\MyMusic\obj\Debug\net8.0\MyMusic.genruntimeconfig.cache
+C:\Users\kiril\source\repos\MyMusic\MyMusic\obj\Debug\net8.0\ref\MyMusic.dll

@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kiril\\source\\repos\\MyMusic\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{12D9ABF0-020E-4197-A697-CB4146A76293}|MyMusic\\MyMusic.csproj|c:\\users\\kiril\\source\\repos\\mymusic\\mymusic\\song.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12D9ABF0-020E-4197-A697-CB4146A76293}|MyMusic\\MyMusic.csproj|solutionrelative:mymusic\\song.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D9ABF0-020E-4197-A697-CB4146A76293}|MyMusic\\MyMusic.csproj|c:\\users\\kiril\\source\\repos\\mymusic\\mymusic\\artist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12D9ABF0-020E-4197-A697-CB4146A76293}|MyMusic\\MyMusic.csproj|solutionrelative:mymusic\\artist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D9ABF0-020E-4197-A697-CB4146A76293}|MyMusic\\MyMusic.csproj|c:\\users\\kiril\\source\\repos\\mymusic\\mymusic\\album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12D9ABF0-020E-4197-A697-CB4146A76293}|MyMusic\\MyMusic.csproj|solutionrelative:mymusic\\album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D9ABF0-020E-4197-A697-CB4146A76293}|MyMusic\\MyMusic.csproj|c:\\users\\kiril\\source\\repos\\mymusic\\mymusic\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12D9ABF0-020E-4197-A697-CB4146A76293}|MyMusic\\MyMusic.csproj|solutionrelative:mymusic\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D9ABF0-020E-4197-A697-CB4146A76293}|MyMusic\\MyMusic.csproj|c:\\users\\kiril\\source\\repos\\mymusic\\mymusic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12D9ABF0-020E-4197-A697-CB4146A76293}|MyMusic\\MyMusic.csproj|solutionrelative:mymusic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Main.cs",
+              "DocumentMoniker": "C:\\Users\\kiril\\source\\repos\\MyMusic\\MyMusic\\Main.cs",
+              "RelativeDocumentMoniker": "MyMusic\\Main.cs",
+              "ToolTip": "C:\\Users\\kiril\\source\\repos\\MyMusic\\MyMusic\\Main.cs",
+              "RelativeToolTip": "MyMusic\\Main.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T11:17:26.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Album.cs",
+              "DocumentMoniker": "C:\\Users\\kiril\\source\\repos\\MyMusic\\MyMusic\\Album.cs",
+              "RelativeDocumentMoniker": "MyMusic\\Album.cs",
+              "ToolTip": "C:\\Users\\kiril\\source\\repos\\MyMusic\\MyMusic\\Album.cs",
+              "RelativeToolTip": "MyMusic\\Album.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T10:59:40.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kiril\\source\\repos\\MyMusic\\MyMusic\\Program.cs",
+              "RelativeDocumentMoniker": "MyMusic\\Program.cs",
+              "ToolTip": "C:\\Users\\kiril\\source\\repos\\MyMusic\\MyMusic\\Program.cs",
+              "RelativeToolTip": "MyMusic\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T10:43:07.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Song.cs",
+              "DocumentMoniker": "C:\\Users\\kiril\\source\\repos\\MyMusic\\MyMusic\\Song.cs",
+              "RelativeDocumentMoniker": "MyMusic\\Song.cs",
+              "ToolTip": "C:\\Users\\kiril\\source\\repos\\MyMusic\\MyMusic\\Song.cs",
+              "RelativeToolTip": "MyMusic\\Song.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAwwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T10:44:49.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Artist.cs",
+              "DocumentMoniker": "C:\\Users\\kiril\\source\\repos\\MyMusic\\MyMusic\\Artist.cs",
+              "RelativeDocumentMoniker": "MyMusic\\Artist.cs",
+              "ToolTip": "C:\\Users\\kiril\\source\\repos\\MyMusic\\MyMusic\\Artist.cs",
+              "RelativeToolTip": "MyMusic\\Artist.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAUwAYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T11:09:23.952Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
